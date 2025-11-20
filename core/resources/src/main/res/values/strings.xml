@@ -1,0 +1,24 @@
+<resources>
+    <string name="stream_config_title">Connect to Twitch</string>
+    <string name="stream_config_description">Enter your Twitch stream key to start broadcasting from this device.</string>
+    <string name="stream_config_hint">Twitch stream key</string>
+    <string name="stream_config_save">Save &amp; Continue</string>
+    <string name="stream_config_error_empty">Stream key is required</string>
+    <string name="stream_config_example">RTMP endpoint: rtmp://live.twitch.tv/app/{stream_key}</string>
+
+    <string name="stream_main_start">Go Live</string>
+    <string name="stream_main_stop">Stop Stream</string>
+    <string name="stream_main_mic_on">Mic On</string>
+    <string name="stream_main_mic_off">Mic Off</string>
+    <string name="stream_main_camera_switch">Switch camera</string>
+    <string name="stream_main_status_offline">Offline</string>
+    <string name="stream_main_status_online">Online</string>
+    <string name="stream_main_status_connecting">Connecting</string>
+    <string name="stream_main_status_reconnecting">Reconnecting</string>
+    <string name="stream_main_duration">Duration</string>
+    <string name="stream_main_viewers_title">Live viewers</string>
+    <string name="stream_main_viewers_search_hint">Search viewers</string>
+    <string name="stream_main_viewers_empty">No viewers yet. Start streaming to populate this list.</string>
+    <string name="stream_main_viewers_refresh">Refresh</string>
+    <string name="stream_main_permissions_required">Camera and microphone permissions are required to preview and stream.</string>
+</resources>
